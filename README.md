@@ -1,7 +1,9 @@
 
-<h1>Multithreaded-Server</h1>
+<h1>Multithreaded-Server (Group Chat)</h1>
 <hr>
-
+This project aims to build a group chat application using Multithreading and Socket programming in C language.<br>
+A simple server without multithreading can only deal with one client at a time, but using multithreading we can hadle multiple clients at once.<br>
+By this once the server is active all the user can join the group and chat 
 # How to Run Project
 0. This project can only be compiled in linux based os.<br>
 1. Install gcc compiler if not already installed.<br>
