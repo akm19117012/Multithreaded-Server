@@ -14,6 +14,10 @@ By this once the server is active all the user can join the group and chat
   
 # Learnings...
   
+  1. Concept of Threads and Multithreading - working with threads and concept of mutex
+  2. Socket Programming - reading and writing data from server and client
+  3. How to deal with multiple client with the help of threads in such a way that their requested data do not clash with each other with the help of mutex.
+  
 # Resources
   <a href="https://www.geeksforgeeks.org/multithreading-c-2/">Multithreading in C</a>,
   <a href="http://www.csc.villanova.edu/~mdamian/threads/posixthreads.html">Threads</a>,
